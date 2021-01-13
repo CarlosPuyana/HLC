@@ -1,0 +1,37 @@
+#todo {
+    position: relative;
+    left: 533px;
+    top: 100px;
+    width: 500px;
+    height: 330px;
+    border: 0.001em solid grey;
+    border-radius: 0.2cm;
+}
+
+#texto>h2 {
+    position: relative;
+    left: 145px;
+}
+
+#texto>p {
+    position: relative;
+    left: 134px;
+    bottom: 10px;
+    
+}
+
+#formulario {
+    position: relative;
+    left: 100px;
+}
+
+#login {
+    position: relative;
+    left: 60px;
+}
+
+#todo>p {
+    position: relative;
+    left: 100px;
+    width: 330px;
+}
